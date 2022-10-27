@@ -1,2 +1,2 @@
 # frontendmentor
-This repository is for all my completed challenges from the Front-end mentor website
+This repository is for all my completed challenges from the Front-end mentor platfrom
